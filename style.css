@@ -132,6 +132,31 @@ button {
     margin-left: 30px;
 }
 
+    #pai {
+    margin-left: 30px;
+    min-width: 300px;
+    max-height: 300px;
+    border: 1px solid black;
+    border-radius: 5px;
+    }
+
+    #curt{
+        margin-left: 30px;
+        min-width: 300px;
+        max-height: 300px;
+        border: 1px solid black;
+        border-radius: 5px;
+
+    }
+
+    #ara {
+        margin-left: 30px;
+        min-width: 300px;
+        max-height: 300px;
+        border: 1px solid black;
+        border-radius: 5px;
+    }
+
 video {
     margin-bottom: 15px;
     min-width: 300px;
